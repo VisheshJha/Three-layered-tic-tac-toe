@@ -926,6 +926,7 @@ public class frame extends javax.swing.JFrame {
     void Smartmove()
     {
         
+        
     }
     
     
